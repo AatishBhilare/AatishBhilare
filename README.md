@@ -1,4 +1,3 @@
-[![MasterHead]
 <h1 align="center">Hi 👋, I'm Aatish Bhilare</h1>
 <h3 align="center">In learning phase to become FULL STACK DEVELOPER!</h3>
 
